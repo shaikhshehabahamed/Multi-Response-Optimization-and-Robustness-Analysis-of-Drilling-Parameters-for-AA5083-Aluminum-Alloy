@@ -1,0 +1,4 @@
+scheme,spearman_rank_correlation,top5_overlap_count,top5_overlap_ExpNo
+equal6,0.884,3,"[55, 56, 59]"
+critic6,0.903,3,"[55, 56, 59]"
+equal5,0.917,3,"[26, 55, 56]"

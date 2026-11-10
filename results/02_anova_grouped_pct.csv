@@ -1,0 +1,7 @@
+Response,R2,Speed_pct,Feed_pct,Dia_pct,Interactions_pct,Quadratic_pct,Residual_pct
+CTR_mm,0.404,15.75,21.78,0.36,1.81,0.67,59.63
+TBT_mm,0.134,1.73,2.69,0.21,4.28,4.46,86.63
+BBT_mm,0.222,0.12,0.0,3.32,2.05,16.66,77.84
+Circularity_Error_Ce_mm,0.237,0.14,1.51,8.11,5.16,8.75,76.34
+Cylindricity_Error_Cy_mm,0.281,3.82,2.08,9.7,8.68,3.82,71.89
+Conicity_Error_Co_mm,0.227,5.25,8.33,1.57,2.97,4.58,77.3

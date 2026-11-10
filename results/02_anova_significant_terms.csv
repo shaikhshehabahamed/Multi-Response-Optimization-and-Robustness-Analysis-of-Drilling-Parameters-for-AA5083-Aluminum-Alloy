@@ -1,0 +1,10 @@
+response,term,p_value,pct_contribution
+CTR_mm,Speed,0.0001,15.75
+CTR_mm,Feed,0.0,21.78
+BBT_mm,I(Speed ** 2),0.0121,7.39
+BBT_mm,I(Feed ** 2),0.0208,6.22
+Circularity_Error_Ce_mm,Dia,0.0081,8.11
+Cylindricity_Error_Cy_mm,Dia,0.003,9.7
+Cylindricity_Error_Cy_mm,Speed:Dia,0.0181,6.02
+Conicity_Error_Co_mm,Speed,0.0326,5.25
+Conicity_Error_Co_mm,Feed,0.0077,8.33

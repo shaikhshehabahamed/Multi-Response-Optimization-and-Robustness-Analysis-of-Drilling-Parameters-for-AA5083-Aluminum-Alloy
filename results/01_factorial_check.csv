@@ -1,0 +1,5 @@
+,n_factor_levels,levels
+Spindle_Speed_RPM,4.0,"[np.int64(1500), np.int64(2000), np.int64(2500), np.int64(3000)]"
+Feed_Rate_mm_min,5.0,"[np.int64(50), np.int64(100), np.int64(150), np.int64(200), np.int64(250)]"
+Tool_Dia_mm,4.0,"[np.int64(6), np.int64(8), np.int64(10), np.int64(12)]"
+SUMMARY,80.0,
